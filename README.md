@@ -3,14 +3,14 @@
 -->
 
 
-<p align="center">
+<div align="center">
   <h1 align="center">
     Alexandre Silva
   </h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=20&center=true&vCenter=true&width=900&height=100&lines=-Full+Stack+Software+Engineer-;-Love+for+coding-;-Always+learning+new+things-">
+  <a href="https://github.com/SalDaSIIva">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=-Full+Stack+Software+Engineer-;-Love+for+coding-;-Always+learning+new+things-">
   </a>
-</p>
+</div>
 
 <!-- 
 <p align="center">
@@ -28,7 +28,7 @@ I am a dedicated Computer Science student with a keen interest in API developmen
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,java,py,go,postgres,aws,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,java,py,go,postgres,aws,docker&theme=dark)](https://github.com/SalDaSIIva)
 
 </div>
 
