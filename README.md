@@ -3,12 +3,12 @@
     Alexandre Silva
   </h1>
   <a href="https://github.com/SalDaSIIva">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=-Full+Stack+Software+Engineer-;-Love+for+coding-;-Always+learning+new+things-">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=-Junior+Full+Stack+Software+Engineer-;-Love+for+coding-;-Always+learning+new+things-">
   </a>
 </div>
 
 <p align="center">
-  I am a dedicated Computer Science student. My experience includes AWS technologies, serverless architecture with AWS Lambda, API development, database management, and AI.
+  I am a dedicated Computer Science graduate. My experience includes fast and responsive web applications, API development, database management, and recently a lot of AI tinkering.
 </p>
 
 
