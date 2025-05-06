@@ -18,7 +18,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,spring,java,dotnet,py,go,postgres,aws,docker&theme=dark)](https://github.com/SalDaSIIva)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,spring,java,py,dotnet,go,aws,docker,postgres&theme=dark)](https://github.com/SalDaSIIva)
 
 </div>
 
